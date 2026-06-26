@@ -178,8 +178,6 @@ The model captures the bidirectional client-PM relationship, the tight DesignLea
 
 This chart reflects the publicly named Mission Critical leadership team (Christine Wood as Global Leader; Sam Allen, Tori Helm, Bryan Floth, and Charles Clinton as directors) reporting through the Buildings Group up to Chair/CEO Leslie Duke, with project-level integration of architects, MEP/civil engineers, construction, and commissioning under a single Mission Critical Project Manager \[4]\[16] *(Observed)*. Diagram confidence: *(Inferred)*
 
-![Burns & McDonnell Organizational Chart](./images/burns-mcd-org-chart.png)
-
 ***
 
 ## G. References
